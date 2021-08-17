@@ -40,8 +40,8 @@
     "nprogress": "^0.2.0",
     "preact": "^10.5.14",
     "preact-render-to-string": "^5.1.19",
-    "react": "npm:@preact/compat@0.0.4",
-    "react-dom": "npm:@preact/compat@0.0.4",
+    "react": "0.14.10",
+    "react-dom": "0.14.10",
     "react-icons": "^4.2.0",
     "react-ssr-prepass": "npm:preact-ssr-prepass@1.2.0"
   },
